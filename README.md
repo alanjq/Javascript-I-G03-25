@@ -8,6 +8,8 @@ Desarrollo con Javascript Julio 2025
 
 [Tema 2 Controles de flujo](https://youtu.be/JL_4OV4nIZM)
 
-[Tema 3 Objetos y Arreglos](https://youtu.be/0Fk5Pz0EvAc)
+[Tema 3 Funciones](https://youtu.be/pcEJAiqzMos)
 
-[Tema 4 Programación Orientada a Objetos](https://youtu.be/0Fk5Pz0EvAc)
+[Tema 4 Objetos y Arreglos](https://youtu.be/0Fk5Pz0EvAc)
+
+[Tema 5 Programación Orientada a Objetos](https://youtu.be/0Fk5Pz0EvAc?list=PLXDgesVAFKPZ-GDNqWGfuMEmC1p4E29iZ&t=5598)
