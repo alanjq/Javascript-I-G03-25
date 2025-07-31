@@ -1,0 +1,15 @@
+.submenu {
+    /* display: block; */
+    border: 2px solid #a19797;
+    background: #fff3e4;
+    box-shadow: 2px 6px 5px 3px #eb8484;
+    position: absolute;
+    padding: .5em 1em;
+    border-radius: 5px;
+}
+.visible {
+    display: block;
+}
+#contenedor{
+    border: 2px solid blue;
+}
