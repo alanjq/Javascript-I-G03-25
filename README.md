@@ -13,3 +13,11 @@ Desarrollo con Javascript Julio 2025
 [Tema 4 Objetos y Arreglos](https://youtu.be/0Fk5Pz0EvAc)
 
 [Tema 5 Programación Orientada a Objetos](https://youtu.be/0Fk5Pz0EvAc?list=PLXDgesVAFKPZ-GDNqWGfuMEmC1p4E29iZ&t=5598)
+
+[Tema 6 Programación funcional (Parte 1)](https://youtu.be/0JGbyCiE2is)
+
+[Tema 6 Programación funcional (Parte 2)](https://youtu.be/hacGO1LhxbA)
+
+[Tema 7 DOM](https://youtu.be/bYELwZbT9ik)
+
+[Tema 8 Manejo del DOM](https://youtu.be/J5eqNEcKzYo)
