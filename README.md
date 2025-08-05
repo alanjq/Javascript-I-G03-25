@@ -21,3 +21,7 @@ Desarrollo con Javascript Julio 2025
 [Tema 7 DOM](https://youtu.be/bYELwZbT9ik)
 
 [Tema 8 Manejo del DOM](https://youtu.be/J5eqNEcKzYo)
+
+[Sesión 9: Revisión de proyectos](https://youtu.be/XCU6XvVF9sI)
+
+[Tema extra - APIS rest](https://youtu.be/XCU6XvVF9sI?si=cFsxf8mWHID4EBoi&t=1699)
